@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # A Simple Login CGI
-# @author: pj4dev.mit@gmail.com
+# @author: Peez Gloriousintel (pj4dev.mit@gmail.com)
 # Last modified: 09/11/2015
 
 Header() {
