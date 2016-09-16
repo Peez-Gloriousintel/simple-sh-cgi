@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# A Simple Login CGI
-# @author: Peez Gloriousintel (pj4dev.mit@gmail.com)
-# Last modified: 09/11/2015
+# @name: A Simple Login CGI
+# @author: pj4dev.mit@gmail.com
+# @last_modified: 09/11/2015
 
 Header() {
 	COOKIE=$1
